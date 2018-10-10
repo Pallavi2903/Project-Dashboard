@@ -1,3 +1,4 @@
+
 <?php
 $work = new Work($_POST);
 $work->create();
