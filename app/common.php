@@ -8,5 +8,5 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'
 }
 require 'environment.php';
 /** MODELS **/
-require 'model/Work.php';
-require 'model/Team.php';
+require 'model/work.php';
+require 'model/team.php';
